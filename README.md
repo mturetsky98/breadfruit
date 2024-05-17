@@ -15,6 +15,7 @@ Paragraph 2 text here. Alternate Pacific Islands map. Historical.
 <param ve-image url="https://iiif-prod.nypl.org/index.php?id=1404034&t=g" title="Map of Pacific Islands, 1816." attribution="New York Public Library" license="public domain">
 {#paragraph2}
 
+
 Paragraph 3. Hawaii breadfruit documentary YouTube.
 <param ve-video vid="Vb8_f1K6FZA" fit="contain">
 {#paragraph3}
