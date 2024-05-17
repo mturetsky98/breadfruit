@@ -20,11 +20,11 @@ Paragraph 3. Hawaii breadfruit documentary YouTube.
 {#paragraph3}
 
 Paragraph 4. Worls Suitability Map.
-<param ve-image url="worldSuitabilityMap.png" title="World Suitability Map" attribution="Mausio et al. 2020" license="https://creativecommons.org/licenses/by/4.0/">
+<param ve-image url="worldSuitabilityMap.png" fit="contain" title="World Suitability Map" attribution="Mausio et al. 2020" license="https://creativecommons.org/licenses/by/4.0/">
 {#paragraph4}
 
 Paragraph 5. Cook Voyage illustrations
-<param ve-plant-specimen jpid="10.5555/al.ap.visual.nhm-uk-l-a391788b-037a-m-1", title="Parkinson illustrations from Cook Voyage">
+<param ve-image url=", title="Parkinson illustrations from Cook Voyage">
 {#paragraph5}
 
 
