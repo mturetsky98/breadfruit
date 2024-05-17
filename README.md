@@ -41,5 +41,9 @@ Paragraph 8. Breadfruit landscape. 1806. Wellcome Collection.
 <param ve-image url="https://iiif.wellcomecollection.org/image/V0043227/full/full/0/default.jpg" title="Breadfruit Landscape. Coloured aquatint by W. Daniell, c. 1809, after himself." attribution="Wellcome Collection" license="public domain" fit="contain">
 {#paragraph8}
 
+Paragraph 9. Watercolor. Dumbarton Oaks Collection
+<param ve-image url="breadfruitDO.jpg title="Breadfruit botanical illustration. Watercolor. Album of watercolors of Asian fruits and flowers, [between 1798 and 1850?" fit="contain" attribution="Dumbarton Oaks">
+{#paragraph9}
+
 
 
