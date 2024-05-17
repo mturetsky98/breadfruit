@@ -30,6 +30,6 @@ Paragraph 5. Cook Voyage illustrations. Sketches
 {#paragraph5}
 
 Paragraph 6. Cook Voyages Illustrations. Watercolors.
-<param ve-plant-specimen jpid="10.5555/al.ap.visual.nhm-uk-l-a391788b-037b-m-1">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.col000369700">
 {#paragraph6}
 
