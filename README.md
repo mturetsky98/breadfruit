@@ -34,5 +34,12 @@ Paragraph 6. Cook Voyages Illustrations. Watercolors.
 {#paragraph6}
 
 Paragraph 7. Breadfruit. Fruiting Branch. 1796. Wellcome Collection.
-<param ve-image url="https://iiif.wellcomecollection.org/image/V0044288/full/full/0/default.jpg" title="Fruiting Branch. Coloured etching by J. Pass, c. 1796, after J. Ihle." attribution="Wellcome Collection" license="public domain">
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0044288/full/full/0/default.jpg" title="Fruiting Branch. Coloured etching by J. Pass, c. 1796, after J. Ihle." attribution="Wellcome Collection" license="public domain" fit="contain">
+{#paragraph7}
+
+Paragraph 8. Breadfruit landscape. 1806. Wellcome Collection.
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0043227/full/full/0/default.jpg" title="Breadfruit Landscape. Coloured aquatint by W. Daniell, c. 1809, after himself." attribution="Wellcome Collection" license="public domain" fit="contain">
+{#paragraph8}
+
+
 
