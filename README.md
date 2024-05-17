@@ -24,7 +24,9 @@ Paragraph 4. Worls Suitability Map.
 {#paragraph4}
 
 Paragraph 5. Cook Voyage illustrations
-<param ve-image url=", title="Parkinson illustrations from Cook Voyage">
+<param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage">
+<param ve-image url="Parkinson5.jpg">
+<param ve-image url="Parkinson6.jpg">
 {#paragraph5}
 
 
