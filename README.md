@@ -19,11 +19,11 @@ Paragraph 3. Hawaii breadfruit documentary YouTube.
 <param ve-video vid="Vb8_f1K6FZA" fit="contain">
 {#paragraph3}
 
-Paragraph 4. Worls Suitability Map.
+Paragraph 4. Worls Suitability Map. When I scroll, it jumps on past it to the next one.
 <param ve-image url="worldSuitabilityMap.png" fit="contain" title="World Suitability Map" attribution="Mausio et al. 2020" license="https://creativecommons.org/licenses/by/4.0/">
 {#paragraph4}
 
-Paragraph 5. Cook Voyage illustrations. Sketches
+Paragraph 5. Cook Voyage illustrations. Sketches. This one is not appearing. Giving me problems.
 <param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
 {#paragraph5}
 
