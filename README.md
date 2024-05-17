@@ -30,6 +30,6 @@ Paragraph 5. Cook Voyage illustrations. Sketches
 {#paragraph5}
 
 Paragraph 6. Cook Voyages Illustrations. Watercolors.
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.col000369700">
+<param ve-image url="ParkinsonWater.jpg" title="Parkinson Water Color from Cook First Voyage, 1768-1771" attribution="Natural History Museum, London">
 {#paragraph6}
 
