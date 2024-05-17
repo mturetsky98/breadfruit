@@ -23,10 +23,13 @@ Paragraph 4. Worls Suitability Map.
 <param ve-image url="worldSuitabilityMap.png" fit="contain" title="World Suitability Map" attribution="Mausio et al. 2020" license="https://creativecommons.org/licenses/by/4.0/">
 {#paragraph4}
 
-Paragraph 5. Cook Voyage illustrations
-<param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage">
-<param ve-image url="Parkinson5.jpg">
-<param ve-image url="Parkinson6.jpg">
+Paragraph 5. Cook Voyage illustrations. Sketches
+<param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London">
+<param ve-image url="Parkinson5.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London">
+<param ve-image url="Parkinson6.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London">
 {#paragraph5}
 
+Paragraph 6. Cook Voyages Illustrations. Watercolors.
+<param ve-plant-specimen jpid="10.5555/al.ap.visual.nhm-uk-l-a391788b-037b-m-1">
+{#paragraph6}
 
