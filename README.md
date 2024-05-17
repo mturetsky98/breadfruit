@@ -18,3 +18,13 @@ Paragraph 2 text here. Alternate Pacific Islands map. Historical.
 Paragraph 3. Hawaii breadfruit documentary YouTube.
 <param ve-video vid="Vb8_f1K6FZA" fit="contain">
 {#paragraph3}
+
+Paragraph 4. Worls Suitability Map.
+<param ve-image url="worldSuitabilityMap.png" title="World Suitability Map" attribution="Mausio et al. 2020" license="https://creativecommons.org/licenses/by/4.0/">
+{#paragraph4}
+
+Paragraph 5. Cook Voyage illustrations
+<param ve-plant-specimen jpid="10.5555/al.ap.visual.nhm-uk-l-a391788b-037a-m-1", title="Parkinson illustrations from Cook Voyage">
+{#paragraph5}
+
+
