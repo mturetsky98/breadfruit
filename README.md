@@ -40,7 +40,7 @@ Paragraph 8. Breadfruit landscape. 1806. Wellcome Collection.
 {#paragraph8}
 
 Paragraph 9. Watercolor. Dumbarton Oaks Collection
-<param ve-image url="breadfruitDO.jpg title="Breadfruit botanical illustration. Watercolor. Album of watercolors of Asian fruits and flowers, between 1798 and 1850?" fit="contain" attribution="Dumbarton Oaks">
+<param ve-image url="breadfruitDO.jpg" title="Breadfruit botanical illustration. Watercolor. Album of watercolors of Asian fruits and flowers, between 1798 and 1850?" fit="contain" attribution="Dumbarton Oaks">
 {#paragraph9}
 
 
