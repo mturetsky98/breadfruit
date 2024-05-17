@@ -24,12 +24,15 @@ Paragraph 4. Worls Suitability Map.
 {#paragraph4}
 
 Paragraph 5. Cook Voyage illustrations. Sketches
-<param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London">
-<param ve-image url="Parkinson5.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London">
-<param ve-image url="Parkinson6.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London">
+<param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
+<param ve-image url="Parkinson5.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
+<param ve-image url="Parkinson6.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
 {#paragraph5}
 
 Paragraph 6. Cook Voyages Illustrations. Watercolors.
-<param ve-image url="ParkinsonWater.jpg" title="Parkinson Water Color from Cook First Voyage, 1768-1771" attribution="Natural History Museum, London">
+<param ve-image url="ParkinsonWater.jpg" title="Parkinson Water Color from Cook First Voyage, 1768-1771" attribution="Natural History Museum, London" fi="contain">
 {#paragraph6}
+
+Paragraph 7. Breadfruit. Fruiting Branch. 1796. Wellcome Collection.
+<param ve-image url="https://iiif.wellcomecollection.org/image/V0044288/full/full/0/default.jpg" title="Fruiting Branch. Coloured etching by J. Pass, c. 1796, after J. Ihle." attribution="Wellcome Collection" license="public domain">
 
