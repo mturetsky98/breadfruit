@@ -25,8 +25,6 @@ Paragraph 4. Worls Suitability Map.
 
 Paragraph 5. Cook Voyage illustrations. Sketches
 <param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
-<param ve-image url="Parkinson5.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
-<param ve-image url="Parkinson6.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
 {#paragraph5}
 
 Paragraph 6. Cook Voyages Illustrations. Watercolors.
