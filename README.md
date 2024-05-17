@@ -10,3 +10,6 @@
  Paragraph 1 Text here. [Mongabay article linked here](https://news.mongabay.com/2023/07/breadfruit-a-starchy-delicious-climate-and-biodiversity-solution/).
  <param ve-map center="-17.383881, 177.113873" zoom=4>
  {#paragraph1}
+
+ Paragraph 2 text here. Alternate Pacific Islands map. Historical.
+ <param ve-image url="https://iiif-prod.nypl.org/index.php?id=1404034&t=g" title="A field of quinoa in the Andes" attribution="Wikimedia Commons" license="public domain">
