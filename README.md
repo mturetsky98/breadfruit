@@ -125,5 +125,5 @@ Paragraph 29. Breadfruit folk song.
 {#paragraph29}
 
 Paragraph 30. Parkinson breadfruit leaf.
-<param ve-image url=Parkinson5.jpg" title="Parkinson leaf sketch, Cook Voyages 1768-1771." fit="contain" attribution="Natural History Museum, London" license="public domain">
+<param ve-image url="Parkinson5.jpg" title="Parkinson leaf sketch, Cook Voyages 1768-1771." fit="contain" attribution="Natural History Museum, London" license="public domain">
 {#paragraph30}
