@@ -69,7 +69,7 @@ Paragraph 15. Popenoe publication. 1920.
 {#paragraph15}
 
 Paragraph 16. Historic Map of Caribbean. 1736.
-<param-ve image url="https://iiif-prod.nypl.org/index.php?id=1630435&t=g" fit="contain" title="Historical Map of the West Indies, 1736." attribution="New York Public Library" license="public domain">
+<param-ve image url="https://iiif-prod.nypl.org/index.php?id=1630435&t=v" fit="contain" title="Historical Map of the West Indies, 1736." attribution="New York Public Library" license="public domain">
 {#paragraph16}
 
 Paragraph 17. 18th century map of Jamaica. c. 1773
