@@ -44,8 +44,8 @@ Paragraph 9. Watercolor. Dumbarton Oaks Collection
 {#paragraph9}
 
 Paragraph 10. Portrait. William Bligh, image 1; Joseph Banks, image 2. Wikimedia Commons
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9c/William_Bligh%2C_1791.jpg" title="Portrait of Rear Admiral Captain William Bligh, 1791". attribution="Wikimedia Commons" license="public domain">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Joseph_Banks_1773_Reynolds.jpg" title="Portrait of Sir Joseph Banks, 1733". attribution="Wikimedia Commons" license="public domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9c/William_Bligh%2C_1791.jpg" title="Portrait of Rear Admiral Captain William Bligh, 1791." fit="contain" attribution="Wikimedia Commons" license="public domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Joseph_Banks_1773_Reynolds.jpg" title="Portrait of Sir Joseph Banks, 1733." fit="contain" attribution="Wikimedia Commons" license="public domain">
 {#paragraph10}
 
 
