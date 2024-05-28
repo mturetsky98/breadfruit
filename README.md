@@ -19,7 +19,7 @@ Paragraph 3. Hawaii breadfruit documentary YouTube. A tree of importance to Hawa
 <param ve-video vid="Vb8_f1K6FZA" fit="contain">
 {#paragraph3}
 
-Paragraph 4. Worls Suitability Map. When I scroll, it jumps on past it to the next one.
+Paragraph 4. Worls Suitability Map
 <param ve-image url="worldSuitabilityMap.png" fit="contain" title="World Suitability Map" attribution="Mausio et al. 2020" license="https://creativecommons.org/licenses/by/4.0/">
 {#paragraph4}
 
