@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
- title="Breadfruit: TITLE"
+ title="The Breadfruit's Journey from Pacific Origins to Caribbean Belonging"
  source-image="https://upload.wikimedia.org/wikipedia/commons/9/93/Breadfruit_1.jpg"
  banner="https://upload.wikimedia.org/wikipedia/commons/7/7d/Breadfruit_artocarpus_altilis_%283591096448%29.jpg"
  author="Elaine Savory"
@@ -58,7 +58,51 @@ Paragraph 12. Curtis Botanical Magazine. Photo if archive.org does not work.
 
 Paragraph 13. Watercolor. Dumbarton Oaks Collection
 <param ve-image url="breadfruitDO.jpg" title="Breadfruit botanical illustration. Watercolor. Album of watercolors of Asian fruits and flowers, between 1798 and 1850?" fit="contain" attribution="Dumbarton Oaks">
-{#paragraph9}
+{#paragraph13}
+
+Paragraph 14. Fijian man carrying breadfruit. c. 1890-1910. Museum of New Zealand Te Papa Tongarewa.
+<param ve-image url="fijianMan.jpg" title="Fijian Man carrying breadfruit c. 1890-1910" fit=contain attribution="Museum of New Zealand Te Papa Tongarewa" license="public domain">
+{#paragraph14}
+
+Paragraph 15. Popenoe publication. 1920.
+<param ve-iframe src="https://archive.org/details/manualoftropical00poperich/page/406/mode/2up?view=theater">
+{#paragraph15}
+
+Paragraph 16. Historic Map of Caribbean. 1736.
+<param-ve image url="https://iiif-prod.nypl.org/index.php?id=1630435&t=g" fit="contain" title="Historical Map of the West Indies, 1736." attribution="New York Public Library" license="public domain">
+{#paragraph16}
+
+Paragraph 17. 18th century map of Jamaica. c. 1773
+<param ve-image url="https://tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4960:g4960:ar192800/full/pct:25/0/default.jpg" title="Map of the island of Jamaica c. 1770" fit="contain" attribution="Library of Congress" license="public domain">
+{#paragraph17}
+
+Paragraph 18. Walcott image.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Derek_Walcott.jpg" title="Photograph of Derek Walcott" fit="contain" attribution="Bert Nienhuis, Wikimedia Commons" license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
+{#paragraph18}
+
+Paragraph 19. Breadfruit leaf. Or use sketch from Parkinson of leaf.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Starr-130316-2537-Artocarpus_altilis-leaves-Huelo-Maui_%2825207536705%29.jpg" fit="contain" title="Leaf of breadfruit." attribution="Forest and Kim Starr, Wikimedia Commons" license="https://creativecommons.org/licenses/by/3.0/">
+{#paragraph19}
+
+Paragraph 20. Map of Barbados.
+<param ve-image url="https://tile.loc.gov/image-services/iiif/service:gmd:gmd5:g5140:g5140:ct002725/full/pct:25/0/default.jpg" title="Map of Barbados, Library of Congress, 1980" fit="contain" attribution="Library of Congress" license="public domain">
+{#paragraph 20}
+
+Paragraph 21. Portrait of Austin Clarke.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Austin_Clarke.jpg" title="Austin Clarke speaking at event." fit="contain" attribution="Andrew Currie, Wikimedia Commons" license="https://creativecommons.org/licenses/by/2.0/deed.en">
+{#paragraph21}
+
+Paragraph 22. Bread cou cou recipe.
+<param ve-video vid="b68OdOa1nX0" fit="contain">
+{#paragraph22}
+
+Paragraph 23. Map of Antigua. Fix zoom if needed.
+<param ve-map center="17.321238, -61.799933" zoom=4>
+{#paragraph23}
+
+Paragraph 24. Jamaica Kincaid photo.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Jamaica_Kincaid.jpg" title="Jamaica Kincaid speaking at the Göteborg Book Fair in September 2019." fit="contain" attribution="Vogler, Wikimedia Commons" license="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+{#paragraph24}
 
 
 
