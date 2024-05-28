@@ -48,7 +48,13 @@ Paragraph 10. Breadfruit landscape. 1806. Wellcome Collection.
 <param ve-image url="https://iiif.wellcomecollection.org/image/V0043227/full/full/0/default.jpg" title="Breadfruit Landscape. Coloured aquatint by W. Daniell, c. 1809, after himself." attribution="Wellcome Collection" license="public domain" fit="contain">
 {#paragraph10}
 
-Paragraph 11. 
+Paragraph 11. Cudweed and breadfruit. c. 1827. Wellcome Collection
+<param ve-image url="cudweedAndBreadfruit.jpg" fit="contain" title="Mandrake, Cudweed, and Breadfruit, c. 1827" attribution="Wellcome Collection" license="public domain">
+{#paragraph11}
+
+Paragraph 12. Curtis Botanical Magazine. Photo if archive.org does not work.
+<param ve-iframe src="https://archive.org/details/mobot31753002721287/page/2869/mode/2up?view=theater">
+{#paragraph12}
 
 Paragraph 13. Watercolor. Dumbarton Oaks Collection
 <param ve-image url="breadfruitDO.jpg" title="Breadfruit botanical illustration. Watercolor. Album of watercolors of Asian fruits and flowers, between 1798 and 1850?" fit="contain" attribution="Dumbarton Oaks">
