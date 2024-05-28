@@ -12,7 +12,7 @@ Paragraph 1. Majestic tree. [Mongabay article linked here](https://news.mongabay
 {#paragraph1}
 
 Paragraph 2. text here.  Pacific Islands map. Historical.
-<param ve-image url="https://iiif-prod.nypl.org/index.php?id=1404034&t=g" title="Map of Pacific Islands, 1816." attribution="New York Public Library" license="public domain">
+<param ve-image url="https://iiif-prod.nypl.org/index.php?id=1404034&t=g" title="Map of Pacific Islands, 1816." fit="contain" attribution="New York Public Library" license="public domain">
 {#paragraph2}
 
 Paragraph 3. Hawaii breadfruit documentary YouTube. A tree of importance to Hawaii
@@ -69,7 +69,7 @@ Paragraph 15. Popenoe publication. 1920.
 {#paragraph15}
 
 Paragraph 16. Historic Map of Caribbean. 1736.
-<param ve-image url="https://iiif-prod.nypl.org/index.php?id=1630435&t=v" title="Map of West Indies, 1736" attribution="New York Public Library" license="public domain">
+<param ve-image url="https://iiif-prod.nypl.org/index.php?id=1630435&t=v" title="Map of West Indies, 1736" fit="contain" attribution="New York Public Library" license="public domain">
 {#paragraph16}
 
 Paragraph 17. 18th century map of Jamaica. c. 1773
