@@ -32,7 +32,7 @@ Paragraph 6. Cook Voyage illustrations. Sketches. Giving me problems. Find bette
 {#paragraph6}
 
 Paragraph 7. Cook Voyages Illustrations. Watercolors. This will likely go away and combine with paragraph 6.
-<param ve-image url="ParkinsonWater.jpg" title="Parkinson Water Color from Cook First Voyage, 1768-1771" attribution="Natural History Museum, London" fi="contain">
+<param ve-image url="ParkinsonWater.jpg" title="Parkinson Water Color from Cook First Voyage, 1768-1771" attribution="Natural History Museum, London" fi="contain" license="public domain">
 {#paragraph7}
 
 Paragraph 8. Portrait. William Bligh, image 1; Joseph Banks, image 2. Wikimedia Commons
@@ -80,7 +80,7 @@ Paragraph 18. Walcott image.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Derek_Walcott.jpg" title="Photograph of Derek Walcott" fit="contain" attribution="Bert Nienhuis, Wikimedia Commons" license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
 {#paragraph18}
 
-Paragraph 19. Breadfruit leaf. Or use sketch from Parkinson of leaf.
+Paragraph 19. Breadfruit leaf.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Starr-130316-2537-Artocarpus_altilis-leaves-Huelo-Maui_%2825207536705%29.jpg" fit="contain" title="Leaf of breadfruit." attribution="Forest and Kim Starr, Wikimedia Commons" license="https://creativecommons.org/licenses/by/3.0/">
 {#paragraph19}
 
@@ -104,8 +104,26 @@ Paragraph 24. Jamaica Kincaid photo.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Jamaica_Kincaid.jpg" title="Jamaica Kincaid speaking at the Göteborg Book Fair in September 2019." fit="contain" attribution="Vogler, Wikimedia Commons" license="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
 {#paragraph24}
 
+Paragraph 25. St Vincent map. Maybe fix size of image.
+<param ve-image url="https://www.cia.gov/the-world-factbook/static/maps/VC-map.jpg" title="Map of St. Vincent" fit="contain" attribution="Central Intelligence Agency" license="public domain">
+{#paragraph25}
 
+Paragraph 26. St vincent youtube breadfruit.
+<param ve-video vid="hgbfPEbH8nE" fit="contain">
+{#paragraph26}
 
+Paragraph 27. Grenada Oil Down recipe video.
+<param ve-video vid="Xc-vzkFGZDo" fit="contain">
+{#paragraph27}
 
+Paragraph 28. Roast Breadfruit video.
+<param ve-video vid="eYVWuXKEwDs" fit="contain">
+{#paragraph28}
 
+Paragraph 29. Breadfruit folk song.
+<param ve-video vid="fyhtP_IQPsA" fit="contain">
+{#paragraph29}
 
+Paragraph 30. Parkinson breadfruit leaf.
+<param ve-image url=Parkinson5.jpg" title="Parkinson leaf sketch, Cook Voyages 1768-1771." fit="contain" attribution="Natural History Museum, London" license="public domain">
+{#paragraph30}
