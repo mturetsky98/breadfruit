@@ -68,7 +68,7 @@ Paragraph 15. Popenoe publication. 1920.
 <param ve-iframe src="https://archive.org/details/manualoftropical00poperich/page/406/mode/2up?view=theater">
 {#paragraph15}
 
-Paragraph 16. Historic Map of Caribbean. 1736.
+Paragraph 16. Historic Map of <span data-mouseover-image-zoomto="984,1,1576,1319">Caribbean</span>. 1736.
 <param ve-image url="https://iiif-prod.nypl.org/index.php?id=1630435&t=v" title="Map of West Indies, 1736" fit="contain" attribution="New York Public Library" license="public domain">
 {#paragraph16}
 
