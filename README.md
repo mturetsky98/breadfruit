@@ -19,11 +19,10 @@ Because it was spread through the Pacific Islands by human migration, its presen
 <param ve-video vid="Vb8_f1K6FZA" fit="contain">
 {#paragraph3}
 
-As this video makes clear, the breadfruit still has a very important role in Pacific culture. Diane Ragone, who appears in the video, is a prominent researcher on the tree. She and Catherine G. Cavaletto tell us that breadfruit is “currently grown in 86 countries and 26 additional countries have ecological conditions suitable for its cultivation” (335).    Breadfruit is especially popular in the Caribbean, which is why its’ complicated history there is particularly important. 
+As this video makes clear, the breadfruit still has a very important role in Pacific culture. Diane Ragone, who appears in the video, is a prominent researcher on the tree. She and Catherine G. Cavaletto tell us that breadfruit is “currently grown in 86 countries and 26 additional countries have ecological conditions suitable for its cultivation” (335).    Breadfruit is especially popular in the Caribbean, which is why its’ complicated history there is particularly important. They go on:
 <param ve-image url="worldSuitabilityMap.png" fit="contain" title="World Suitability Map" attribution="Mausio et al. 2020" license="https://creativecommons.org/licenses/by/4.0/">
 {#paragraph4}
 
-They go on:
 > Islanders have selected, named and grown hundreds of cultivars, distinguished by the following: the presence or absence of seeds; shape, size, skin, or flesh texture of the fruit; cooking or storage qualities; leaf shape; and fruiting season. (335)
 
 A cultivar is a plant variety produced through selective breeding, and breadfruit has been cultivated for so long, it is appropriate think of breadfruit as a diverse not only in location but in identity.
