@@ -25,15 +25,16 @@ As this video makes clear, the breadfruit still has a very important role in Pac
 
 > Islanders have selected, named and grown hundreds of cultivars, distinguished by the following: the presence or absence of seeds; shape, size, skin, or flesh texture of the fruit; cooking or storage qualities; leaf shape; and fruiting season. (335)
 
-A cultivar is a plant variety produced through selective breeding, and breadfruit has been cultivated for so long, it is appropriate think of breadfruit as a diverse not only in location but in identity.
+A cultivar is a plant variety produced through selective breeding, and breadfruit has been cultivated for so long, it is appropriate to think of breadfruit as diverse not only in location but in identity. Comparing the world distribution map for the breadfruit with the modern map of the Pacific shows how solidly established to breadfruit is in that region. This map shows Tahiti, the island to which Captain Cook sailed on all three of his voyages to the Pacific (1772) , greatly assisted by a new clock  designed to measure longitude. The British were competing with the French to win naval advantage by being able to calculate longitude accurately. 
 <param ve-map center="-17.383881, 177.113873" zoom=4>
 {#paragraph5}
 
-Paragraph 6. Cook Voyage illustrations. Sketches. Giving me problems. Find better way to include whole portfolio of sketches.
+White planters in the Caribbean had complained because trade after the American Revolution (1776 on) complicated their acquisition of cheap food for the enslaved. Richard Drayton reports that by the 1770s there were plans to move “Asian plants” to the Caribbean:
+> In early 1772 Valentine Morris, Governor of St. Vincent, urged Banks that the introduction of the breadfruit tree would be  ‘a great blessing  and benefit’ to the West Indies. Finally in 1775 the planters of Jamaica…voted in their legislature to create two extensive botanic gardens and to place the cost of a full-time botanist on the charge of the colony.
 <param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
 {#paragraph6}
 
-Paragraph 7. Cook Voyages Illustrations. Watercolors. This will likely go away and combine with paragraph 6.
+Sir Joseph Banks, referred to in this quotation,  had accompanied Captain Cook on his first voyage to the Pacific (1768-1771). Gentleman botanist, he was keen on collecting useful plants: he would set up a  botanical garden at Kew in 1772 with his monarch’s blessing and on his monarch’s land. Banks came up with the idea that breadfruit was a perfect food because it requires no work, therefore no expense: speaking of Pacific islanders, he writes: “Their chiefest sustenance Bread fruit is procurd with no more trouble than that of climbing a tree and pulling it down.”
 <param ve-image url="ParkinsonWater.jpg" title="Parkinson Water Color from Cook First Voyage, 1768-1771" attribution="Natural History Museum, London" fi="contain" license="public domain">
 {#paragraph7}
 
