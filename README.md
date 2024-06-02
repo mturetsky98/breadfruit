@@ -105,34 +105,35 @@ This support of the breadfruit is borne out by the follwing demonstration online
 <param ve-video vid="b68OdOa1nX0" fit="contain">
 {#paragraph22}
 
-Paragraph 23. Map of Antigua. Fix zoom if needed.
+There are many references to breadfruit in Caribbean literature, scribal and oral, and other aspects of culture, but not all are as positive as Clarke and Walcott.  Jamaica Kincaid , born in Antigua, has made her writing career entirely in the U.S. She has written critically of Antigua in A Small Place, and not surprisingly, her take on the breadfruit there is not positive.    In My Garden (Book): ,  she makes her case in a chapter entitled “What Joseph Banks Wrought”  which directly references the breadfruit’s journey, since Banks became the major shaper of Kew Gardens and the dispatch of plants from one corner of the empire to another. She tells how he sent the breadfruit to the Caribbean, but adds the detail “(Perhaps Antiguan children sense intuitively the part this food has played in the history of injustice and so they will not eat it.)"
 <param ve-map center="17.321238, -61.799933" zoom=4>
 {#paragraph23}
 
-Paragraph 24. Jamaica Kincaid photo.
+Kincaid goes on to say, after praising its fecundity and durability as a plant, “In a place like Antigua the breadfruit is not a plant, it is a weapon.” Earlier she says  of the breadfruit that is “has been the cause of more disagreement between parents and children that anything I can think of. No West Indian that I know has ever liked it.”
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Jamaica_Kincaid.jpg" title="Jamaica Kincaid speaking at the Göteborg Book Fair in September 2019." fit="contain" attribution="Vogler, Wikimedia Commons" license="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
 {#paragraph24}
 
-Paragraph 25. St Vincent map. Maybe fix size of image.
+Clearly the breadfruit, through no fault of its own, could have been simply a metonym for suffering and thus only resented by descendants of the enslaved.
 <param ve-image url="https://www.cia.gov/the-world-factbook/static/maps/VC-map.jpg" title="Map of St. Vincent" fit="contain" attribution="Central Intelligence Agency" license="public domain">
 {#paragraph25}
 
-Paragraph 26. St vincent youtube breadfruit.
+Nevertheless it has prospered, not just botanically, as we saw earlier, but also culturally in the Caribbean. St. Vincent, the first place Bligh dropped breadfruit plants, has an annual breadfruit festival and their national dish is roasted breadfruit with fried jack fish.
 <param ve-video vid="hgbfPEbH8nE" fit="contain">
 {#paragraph26}
 
-Paragraph 27. Grenada Oil Down recipe video.
-<param ve-video vid="Xc-vzkFGZDo" fit="contain">
+Breadfruit can be boiled, baked, turned into chips or snacks or roasted , pretty much 
+anything which can be done with potato.  It is tricky to keep, because it has to be cooked at the right moment between unripe and ripe, which is not always possible to predict. Some say fully ripe, soft  breadfruit is enjoyable as a sort of dessert.  It is rich in complex carbohydrates and fiber, as well as calcium, potassium, magnesium, iron, thiamin and niacin, also Vitamins C and A. It has no gluten and a moderate glycemic index. Thus it is a highly nutritious and healthy food.
+<param ve-video vid="eYVWuXKEwDs" fit="contain">
 {#paragraph27}
 
-Paragraph 28. Roast Breadfruit video.
-<param ve-video vid="eYVWuXKEwDs" fit="contain">
+Not only St. Vincent but its close neighbor, Grenada, have national dishes based on breadfruit. But its popularity as a food can sometimes lead to complications. Roast breadfruit is very popular in Jamaica. A Jamaican psychiatrist used the term to describe psychological trauma caused by choosing to cope with being Black in Britain by over-adapting to white cultural mores, thus being metaphorically Black on the outside and white within.  
+<param ve-video vid="Xc-vzkFGZDo" fit="contain">
 {#paragraph28}
 
-Paragraph 29. Breadfruit folk song.
+The fact that ordinary people have grown fond of it is revealed through has also entered popular culture, such as folk sayings , songs and traditional medicine.
 <param ve-video vid="fyhtP_IQPsA" fit="contain">
 {#paragraph29}
 
-Paragraph 30. Parkinson breadfruit leaf.
+Richard Allsopp’s Dictionary of Caribbean English Usage lists a number of sayings about breadfruit including  that someone “has more guts than breadfruit” (it is a solid fruit, not soft, so this would signify being courageous), or that someone is a “breadfruit -swopper”, which signifies very low social status, because breadfruit is the only thing possessed in surplus, to be able to be given away or swopped.   One of the ironies of the breadfruit’s history is that it maintained people who had little income, providing excellent nutrition. Had the more privileged realized that their preferred white rice and potatoes were not as beneficial they might have denied the poor this important resource by making it valuable in monetary terms.
 <param ve-image url="Parkinson5.jpg" title="Parkinson leaf sketch, Cook Voyages 1768-1771." fit="contain" attribution="Natural History Museum, London" license="public domain">
 {#paragraph30}
