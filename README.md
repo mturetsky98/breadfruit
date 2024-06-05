@@ -64,7 +64,7 @@ All plants moved around the expanding British empire were collected at Kew. Gree
 {#paragraph11}
 
 The unusual nature of his painting may be understood by comparison with an 1800 drawing from India of the breadfruit done in “Company Style. “ presumably the ruthless East India Company, where rules prevailed.[^13]
-<param ve-image url="https://images.collections.yale.edu/iiif/2/ycba:7e1add67-0c1b-4ca7-93ab-290523e755ca/full/,1024/0/default.jpg" fit="contain" title="Illustrations like this one for the East India Company served artistic, economic, political, and scientific roles. Artist unknown." attribution="Yale Center for British Art, Paul Mellon Fund" license="public domain">
+<param ve-image url="YaleBreadfruit.jpg" fit="contain" title="Illustrations like this one for the East India Company served artistic, economic, political, and scientific roles. Artist unknown." attribution="Yale Center for British Art, Paul Mellon Fund" license="public domain">
 <param ve-entity eid="Q83164">
 {#paragraph12}
 
