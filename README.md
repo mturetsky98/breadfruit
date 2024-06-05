@@ -33,7 +33,8 @@ A cultivar is a plant variety produced through selective breeding, and breadfrui
 
 ### Breadfruit in the British Empire
 White planters in the Caribbean had complained because trade after the American Revolution (1776 on) complicated their acquisition of cheap food for the enslaved. Richard Drayton reports that by the 1770s there were plans to move “Asian plants” to the Caribbean:
-<param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
+<param ve-image url="Parkinson1.jpg" fit="contain" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
+<param ve-image url="Parkinson6.jpg" fit="contain" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
 > In early 1772 Valentine Morris, Governor of St. Vincent, urged Banks that the introduction of the breadfruit tree would be ‘a great blessing  and benefit’ to the West Indies. Finally in 1775 the planters of Jamaica...voted in their legislature to create two extensive botanic gardens and to place the cost of a full-time botanist on the charge of the colony.[^7]
 {#paragraph6}
 
