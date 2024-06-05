@@ -174,11 +174,11 @@ The fact that ordinary people have grown fond of it is revealed through has also
 
 Richard Allsopp’s _Dictionary of Caribbean English Usage_ lists a number of sayings about breadfruit including  that someone “has more guts than breadfruit” (it is a solid fruit, not soft, so this would signify being courageous), or that someone is a “breadfruit -swopper”, which signifies very low social status, because breadfruit is the only thing possessed in surplus, to be able to be given away or swopped.[^34] One of the ironies of the breadfruit’s history is that it maintained people who had little income, providing excellent nutrition. Had the more privileged realized that their preferred white rice and potatoes were not as beneficial they might have denied the poor this important resource by making it valuable in monetary terms.
 <param ve-image url="Parkinson5.jpg" title="Parkinson leaf sketch, Cook Voyages 1768-1771." fit="contain" attribution="Natural History Museum, London" license="public domain">
-{#paragraph30}
+{#paragraph34}
 
 Breadfruit’s journey across the world has tangled it with traumatic human history, but through all of its experiences with humans, it has managed to thrive and to endure. It is a remarkable and resourceful tree, mostly no longer able to produce sexually,  yet in no way diminished by its enforced adaptations to human proximity.[^35] It is to be hoped that its own needs as an enduring plant will not be overrun by those of humans as climate change intensifies pressure on food resources - if  it proves true that the breadfruit, once more, has  the capacity to endure. This time,  whatever changes come for life on earth.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Breadfruit_%28Artocarpus_altilis%29%2C_Malaysia.JPG" title="Breadfruit in a tree. Advocates argue that breadfruit can play a central role in combatting the food and agricultural impacts of climate change." attribution="Wikimedia Commons, MKwek" license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
-{#paragraph31}
+{#paragraph35}
 
 ### References
 [^1]: See, for a much longer and more detailed essay on the breadfruit: “A Good Thing Spring Up”: The Breadfruit Story in the Caribbean.” Ed. Lesley Wylie. _Understories: Plants and Culture in the American Tropics_. Liverpool: Liverpool University Press. 2023. 41-62.
