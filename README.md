@@ -64,7 +64,7 @@ All plants moved around the expanding British empire were collected at Kew. Gree
 {#paragraph11}
 
 The unusual nature of his painting may be understood by comparison with an 1800 drawing from India of the breadfruit done in “Company Style," presumably the ruthless East India Company, where rules prevailed.[^13]
-<param ve-image url="https://images.collections.yale.edu/iiif/2/ycba:7e1add67-0c1b-4ca7-93ab-290523e755ca/full/,1024/0/default.jpg" title="Illustrations like this one for the East India Company" attribution="Yale Center for British Art, Paul Mellon Fund" license="public domain">
+<param ve-image url="Parkinson1.jpg" title="Illustrations like this one for the East India Company served artistic, economic, political, and scientific roles. Artist unknown." attribution="Yale Center for British Art, Paul Mellon Fund" license="public domain">
 {#paragraph12}
 
 Culturally specific landscape painting, without people usually, can also creep into illustrative composition as in British William Daniell’s 1809 colored aquatint - and actually the tree looks nothing like the breadfruit and might be the jackfruit (_Artocarpus heterophyllus_).
