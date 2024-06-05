@@ -28,7 +28,7 @@ As the previous video makes clear, the breadfruit still has a very important rol
 A cultivar is a plant variety produced through selective breeding, and breadfruit has been cultivated for so long, it is appropriate to think of breadfruit as diverse not only in location but in identity. Comparing the world distribution map for the breadfruit with the modern map of the Pacific shows how solidly established to breadfruit is in that region. This map shows Tahiti, the island to which Captain Cook sailed on all three of his voyages to the Pacific (1772) , greatly assisted by a new clock designed to measure longitude. The British were competing with the French to win naval advantage by being able to calculate longitude accurately.[^6]
 <param ve-entity eid="Q4886">
 <param ve-entity eid="Q7324" title="Captain Cook">
-<param ve-map center="-17.383881, 177.113873" zoom=4>
+<param ve-map basemap="Esri_WorldPhysical" center="-17.656781, -149.426688" zoom=4 title="Map of Tahiti">
 {#paragraph5}
 
 ### Breadfruit in the British Empire
