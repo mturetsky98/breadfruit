@@ -17,7 +17,7 @@ Like many plants, it has been moved great distances, far beyond its own propagat
 
 Because it was spread through the Pacific Islands by human migration, its presence is part of the evidence for understanding patterns in those movements.[^3] Human selection for particular properties over a long time has resulted in variations in the tree’s being and behavior  (760), including the predominance of seedless varieties and the loss of beneficial fungi.[^4] Zerega et al. calls this “loss of fertility,” resulting from a condition called “triploidy” (760). This is caused by having three sets of chromosomes, but this loss is offset for humans by  resulting in greater vigor, dark green leaves and larger flowers or fruit.
 <param ve-video vid="Vb8_f1K6FZA" fit="contain">
-<param ve-entity eid="Q504558">
+<param ve-entity eid="Q504558" title="triploidy">
 {#paragraph3}
 
 As the previous video makes clear, the breadfruit still has a very important role in Pacific culture. Diane Ragone, who appears in the video, is a prominent researcher on the tree. She and Catherine G. Cavaletto tell us that breadfruit is “currently grown in 86 countries and 26 additional countries have ecological conditions suitable for its cultivation."[^5] Breadfruit is especially popular in the Caribbean, which is why its’ complicated history there is particularly important. They go on:
@@ -33,8 +33,8 @@ A cultivar is a plant variety produced through selective breeding, and breadfrui
 
 ### Breadfruit in the British Empire
 White planters in the Caribbean had complained because trade after the American Revolution (1776 on) complicated their acquisition of cheap food for the enslaved. Richard Drayton reports that by the 1770s there were plans to move “Asian plants” to the Caribbean:
-> In early 1772 Valentine Morris, Governor of St. Vincent, urged Banks that the introduction of the breadfruit tree would be ‘a great blessing  and benefit’ to the West Indies. Finally in 1775 the planters of Jamaica...voted in their legislature to create two extensive botanic gardens and to place the cost of a full-time botanist on the charge of the colony.[^7]
 <param ve-image url="Parkinson1.jpg" title="Parkinson illustrations from Cook Voyage, 1768-1771" attribution="Natural History Museum, London" license="public domain">
+> In early 1772 Valentine Morris, Governor of St. Vincent, urged Banks that the introduction of the breadfruit tree would be ‘a great blessing  and benefit’ to the West Indies. Finally in 1775 the planters of Jamaica...voted in their legislature to create two extensive botanic gardens and to place the cost of a full-time botanist on the charge of the colony.[^7]
 {#paragraph6}
 
 Sir Joseph Banks, referred to in this quotation,  had accompanied Captain Cook on his first voyage to the Pacific (1768-1771). Gentleman botanist, he was keen on collecting useful plants: he would set up a  botanical garden at Kew in 1772 with his monarch’s blessing and on his monarch’s land. Banks came up with the idea that breadfruit was a perfect food because it requires no work, therefore no expense: speaking of Pacific islanders, he writes: “Their chiefest sustenance Bread fruit is procurd with no more trouble than that of climbing a tree and pulling it down.”[^8]
