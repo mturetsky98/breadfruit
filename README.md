@@ -105,6 +105,7 @@ It should be clear by now that the breadfruit’s beginnings as a support to Pac
 
 The <span data-mouseover-image-zoomto="984,1,1576,1319">Caribbean</span> is accurately depicted in this early map (1736), showing it had been carefully traversed at that early stage, since Columbus arrived in the early 1490s. Winds off the West African coast blow straight across the Caribbean, which faciltated the slave ships' and also Bligh’s breadfruit voyage in 1793.  St. Vincent, his first port of call, lies less than a hundred miles to the West of Barbados. Jamaica, where reputedly Bligh delivered the healthiest breadfruit saplings, is a thousand miles from the Eastern Caribbean. As should be expected, an archipelago stretching over great distances would be marked by different cultures and language variants. Caribbean creoles are languages in their own right, fusing the metropolitan language of colonialism (English, French, Spanish, Portuguese) with languages brought by Indigenous Caribbean people and those from West Africa, India and later China and the Middle East). So it should be expected that breadfruit, whilst being at first universally resisted by enslaved people, eventually acquired different meanings in the Caribbean region.  
 <param ve-image url="https://iiif-prod.nypl.org/index.php?id=1630435&t=v" title="Map of the West Indies, 1736" fit="contain" attribution="New York Public Library" license="public domain">
+<param ve-entity eid="Q33289">
 {#paragraph20}
 
 Mapping the breadfruit’s cultural identities across the region shows us how a plant kidnapped from its place of origin and brought for purposes entirely indifferent to its own needs, survived and even thrived and become eventually a deeply rooted part of Caribbean culture. Humans with the power to coerce both other people and the non-human have drastically altered the earth, which as we know is now at a dangerous tipping
@@ -120,6 +121,7 @@ Jill Casid’s wonderful book, _Sowing Empire: Landscape and Colonization_ inclu
 ### The Breadfruit in Caribbean Literature
 Caribbean literature, from the twentieth century, provides us with a sense of how the breadfruit has entered cultural and individual imagination in the region. Derek Walcott, Nobel laureate, born in St. Lucia in the Eastern Caribbean in 1930, makes the breadfruit a key  element in “The Bounty”,  his moving poetic elegy for his mother,  Alix.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/af/Derek_Walcott.jpg" title="Photograph of Derek Walcott" fit="contain" attribution="Bert Nienhuis, Wikimedia Commons" license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
+<param ve-entity eid="Q132701">
 {#paragraph22}
 
 The poem  plays with the idea of bounty as the plenty of natural harvest and as Bligh’s ship’s name. The breadfruit appears early: “the breadfruit opens its palms in praise of the bounty, /bois-pain, tree of bread, slave food...."[^20] Bois-pain is literally bread fruit: St Lucia had both French and English colonizers: everyone understands and speaks English but the creole is French-based. This image of the breadfruit as having palms, hands with fingers, reflects the shape of the leaf. This comes back in section iii of the poem, “the breadfruit’s palms.”[^21]
@@ -136,14 +138,16 @@ Barbadian Austin Clarke’s racy and absorbing culinary memoir, _Pig Tails ‘n 
 > After you eat breadfruit, the gas is so distinctive, and is sensed so far and wide and long, that the slave-catcher and the Plantation manager uses to love it and love slaves who eat breadfruit. The slaves could no longer hide! Not after a nice, heavy meal o’ breadfruit cou-cou. The gas they passed betrayed them. My own mother tell me this.[^26]
 This story reveals how deeply involved with slavery and issues of hunger and brutality the breadfruit has become in the Caribbean. But also Clarke sets out the recipe for this beloved local dish.  Clarke declares that from a “bad, disreputable journey” of the breadfruit to the Caribbean, something good has “spring up”, “a green and large harvest of breadfruits.”[^27]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/Austin_Clarke.jpg" title="Austin Clarke speaking at an event." fit="contain" attribution="Andrew Currie, Wikimedia Commons" license="https://creativecommons.org/licenses/by/2.0/deed.en">
+<param ve-entity eid=Q320358>
 {#paragraph25}
 
 This support of the breadfruit is borne out by the follwing demonstration online of its preparation.
 <param ve-video vid="b68OdOa1nX0" fit="contain">
 {#paragraph26}
 
-There are many references to breadfruit in Caribbean literature, scribal and oral, and other aspects of culture, but not all are as positive as Clarke and Walcott.  Jamaica Kincaid , born in Antigua, has made her writing career entirely in the U.S. She has written critically of Antigua in _A Small Place_, and not surprisingly, her take on the breadfruit there is not positive.[^28]  In _My Garden (Book)_,  she makes her case in a chapter entitled “What Joseph Banks Wrought”  which directly references the breadfruit’s journey, since Banks became the major shaper of Kew Gardens and the dispatch of plants from one corner of the empire to another. She tells how he sent the breadfruit to the Caribbean, but adds the detail “(Perhaps Antiguan children sense intuitively the part this food has played in the history of injustice and so they will not eat it.)"[^29]
+There are many references to breadfruit in Caribbean literature, scribal and oral, and other aspects of culture, but not all are as positive as Clarke and Walcott.  Jamaica Kincaid, born in Antigua, has made her writing career entirely in the U.S. She has written critically of Antigua in _A Small Place_, and not surprisingly, her take on the breadfruit there is not positive.[^28]  In _My Garden (Book)_, she makes her case in a chapter entitled “What Joseph Banks Wrought”  which directly references the breadfruit’s journey, since Banks became the major shaper of Kew Gardens and the dispatch of plants from one corner of the empire to another. She tells how he sent the breadfruit to the Caribbean, but adds the detail “(Perhaps Antiguan children sense intuitively the part this food has played in the history of injustice and so they will not eat it.)"[^29]
 <param ve-map center="17.321238, -61.799933" zoom=4>
+<param ve-entity eid="
 {#paragraph27}
 
 Kincaid goes on to say, after praising its fecundity and durability as a plant, “In a place like Antigua the breadfruit is not a plant, it is a weapon.”[^30] Earlier she says  of the breadfruit that it “has been the cause of more disagreement between parents and children that anything I can think of. No West Indian that I know has ever liked it.”[^31]
@@ -159,8 +163,7 @@ Nevertheless it has prospered, not just botanically, as we saw earlier, but also
 {#paragraph30}
 
 ### Breadfruit in Contemporary Culture and Cuisine
-Breadfruit can be boiled, baked, turned into chips or snacks or roasted , pretty much 
-anything which can be done with potato.  It is tricky to keep, because it has to be cooked at the right moment between unripe and ripe, which is not always possible to predict. Some say fully ripe, soft  breadfruit is enjoyable as a sort of dessert.  It is rich in complex carbohydrates and fiber, as well as calcium, potassium, magnesium, iron, thiamin and niacin, also Vitamins C and A. It has no gluten and a moderate glycemic index. Thus it is a highly nutritious and healthy food.[^32]
+Breadfruit can be boiled, baked, turned into chips or snacks or roasted, pretty much anything which can be done with potato. It is tricky to keep, because it has to be cooked at the right moment between unripe and ripe, which is not always possible to predict. Some say fully ripe, soft  breadfruit is enjoyable as a sort of dessert.  It is rich in complex carbohydrates and fiber, as well as calcium, potassium, magnesium, iron, thiamin and niacin, also Vitamins C and A. It has no gluten and a moderate glycemic index. Thus it is a highly nutritious and healthy food.[^32]
 <param ve-video vid="eYVWuXKEwDs" fit="contain">
 {#paragraph31}
 
@@ -176,8 +179,7 @@ Richard Allsopp’s _Dictionary of Caribbean English Usage_ lists a number of sa
 <param ve-image url="Parkinson5.jpg" title="Parkinson leaf sketch, Cook Voyages 1768-1771." fit="contain" attribution="Natural History Museum, London" license="public domain">
 {#paragraph30}
 
-Breadfruit’s journey across the world has tangled it with traumatic human history, but through all of its experiences with humans, it has managed to thrive and to endure.
-It is a remarkable and resourceful tree, mostly no longer able to produce sexually,  yet in no way diminished by its enforced adaptations to human proximity.[^35] It is to be hoped that its own needs as an enduring plant will not be overrun by those of humans as climate change intensifies pressure on food resources - if  it proves true that the breadfruit, once more, has  the capacity to endure. This time,  whatever changes come for life on earth.
+Breadfruit’s journey across the world has tangled it with traumatic human history, but through all of its experiences with humans, it has managed to thrive and to endure. It is a remarkable and resourceful tree, mostly no longer able to produce sexually,  yet in no way diminished by its enforced adaptations to human proximity.[^35] It is to be hoped that its own needs as an enduring plant will not be overrun by those of humans as climate change intensifies pressure on food resources - if  it proves true that the breadfruit, once more, has  the capacity to endure. This time,  whatever changes come for life on earth.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Breadfruit_%28Artocarpus_altilis%29%2C_Malaysia.JPG" title="Breadfruit in a tree. Advocates argue that breadfruit can play a central role in combatting the food and agricultural impacts of climate change." attribution="Wikimedia Commons, MKwek" license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
 {#paragraph31}
 
