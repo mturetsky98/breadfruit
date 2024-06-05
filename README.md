@@ -143,8 +143,8 @@ This support of the breadfruit is borne out by the follwing demonstration online
 {#paragraph26}
 
 There are many references to breadfruit in Caribbean literature, scribal and oral, and other aspects of culture, but not all are as positive as Clarke and Walcott.  Jamaica Kincaid, born in Antigua, has made her writing career entirely in the U.S. She has written critically of Antigua in _A Small Place_, and not surprisingly, her take on the breadfruit there is not positive.[^28]  In _My Garden (Book)_, she makes her case in a chapter entitled “What Joseph Banks Wrought”  which directly references the breadfruit’s journey, since Banks became the major shaper of Kew Gardens and the dispatch of plants from one corner of the empire to another. She tells how he sent the breadfruit to the Caribbean, but adds the detail “(Perhaps Antiguan children sense intuitively the part this food has played in the history of injustice and so they will not eat it.)"[^29]
-<param ve-map center="17.321238, -61.799933" zoom=4>
-<param ve-entity eid="
+<param ve-map center="17.321238, -61.799933" zoom=5>
+<param ve-entity eid="Q275601">
 {#paragraph27}
 
 Kincaid goes on to say, after praising its fecundity and durability as a plant, “In a place like Antigua the breadfruit is not a plant, it is a weapon.”[^30] Earlier she says  of the breadfruit that it “has been the cause of more disagreement between parents and children that anything I can think of. No West Indian that I know has ever liked it.”[^31]
