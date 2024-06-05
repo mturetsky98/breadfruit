@@ -40,6 +40,7 @@ White planters in the Caribbean had complained because trade after the American 
 
 Sir Joseph Banks, referred to in this quotation,  had accompanied Captain Cook on his first voyage to the Pacific (1768-1771). Gentleman botanist, he was keen on collecting useful plants: he would set up a  botanical garden at Kew in 1772 with his monarch’s blessing and on his monarch’s land. Banks came up with the idea that breadfruit was a perfect food because it requires no work, therefore no expense: speaking of Pacific islanders, he writes: “Their chiefest sustenance Bread fruit is procurd with no more trouble than that of climbing a tree and pulling it down.”[^8]
 <param ve-image url="ParkinsonWater.jpg" title="Parkinson Water Color from Cook First Voyage, 1768-1771" attribution="Natural History Museum, London" fi="contain" license="public domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Joseph_Banks_1773_Reynolds.jpg" title="Portrait of Sir Joseph Banks, 1733." fit="contain" attribution="Wikimedia Commons" license="public domain">
 <param ve-entity eid="Q153408">
 {#paragraph7}
 
@@ -47,9 +48,7 @@ The representation of Pacific island societies as places of idyllic idleness and
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9c/William_Bligh%2C_1791.jpg" title="Portrait of Rear Admiral Captain William Bligh, 1791." fit="contain" attribution="Wikimedia Commons" license="public domain">
 <param ve-entity eid="Q294147" title="Bligh">
 > This day we took the plants on board, being 774 pots, all in a healthy state; for whenever any plant had an unfavourable appearance, it was replaced by another. The number of those rejected was 302….The natives reckon eight kinds of the breadfruit tree, each of which they distinguish with a different name. I. Patteah. 2. Eroroo. 3. Awanna. 4. MI-re. 5. Oree. 6. Powerro. 7. Appeere. 8. Rowdeeah. In the first, fourth and eighth class, the leaf differs from the rest…The difference of the fruit is principally in the first and eighth class.[^9]
-
 Bligh was thwarted in his first attempt to transport the breadfruit by the famous Mutiny on his ship, The Bounty (1789), but he returned to finish the job and delivered several hundred plants to St. Vincent in the Caribbean in 1793.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Joseph_Banks_1773_Reynolds.jpg" title="Portrait of Sir Joseph Banks, 1733." fit="contain" attribution="Wikimedia Commons" license="public domain">
 {#paragraph8}
 
 In fascinating research, Audi et al. have shown that two Caribbean cultivars can be directly connected to their Pacific ancestry through genetic data, after over two hundred years. They point out that “Outside of Oceania, the Caribbean is one of the largest growers of breadfruit" (288).[^10] Furthermore, Caribbean seedless cultivars are fairly uniform, lacking genetic diversity, because seedless varieties originate from a single introduction from Tahiti to St. Vincent and the Grenadines. Tahitian cultivar names, however, have been lost (288). Despite their significance in Caribbean diet and culture today, Laura B. Roberts-Nkrumah, a leading expert on breadfruit in the Caribbean, argues that breadfruit is still underutilized, "two and a quarter centuries after its introduction."[^11]
