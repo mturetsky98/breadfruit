@@ -155,7 +155,7 @@ Clearly the breadfruit, through no fault of its own, could have been simply a me
 <param ve-image url="https://www.cia.gov/the-world-factbook/static/maps/VC-map.jpg" title="Map of St. Vincent" fit="contain" attribution="Central Intelligence Agency" license="public domain">
 {#paragraph29}
 
-Nevertheless it has prospered, not just botanically, as we saw earlier, but also culturally in the Caribbean. St. Vincent, the first place Bligh dropped breadfruit plants, has an annual breadfruit festival and their national dish is roasted breadfruit with fried jack fish.
+Nevertheless it has prospered, not just botanically, as we saw earlier, but also culturally in the Caribbean. St. Vincent, the first place Bligh dropped breadfruit plants, has [an annual breadfruit festival](https://tourism.gov.vc/tourism/index.php/festivals-a-events/65-breadfruit-festival) and their national dish is roasted breadfruit with fried jack fish.
 <param ve-video vid="hgbfPEbH8nE" fit="contain">
 {#paragraph30}
 
