@@ -52,7 +52,6 @@ The representation of Pacific island societies as places of idyllic idleness and
 
 In fascinating research, Audi et al. have shown that two Caribbean cultivars can be directly connected to their Pacific ancestry through genetic data, after over two hundred years. They point out that “Outside of Oceania, the Caribbean is one of the largest growers of breadfruit" (288).[^10] Furthermore, Caribbean seedless cultivars are fairly uniform, lacking genetic diversity, because seedless varieties originate from a single introduction from Tahiti to St. Vincent and the Grenadines. Tahitian cultivar names, however, have been lost (288). Despite their significance in Caribbean diet and culture today, Laura B. Roberts-Nkrumah, a leading expert on breadfruit in the Caribbean, argues that breadfruit is still underutilized, "two and a quarter centuries after its introduction."[^11]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/36/Alexander_Anderson_botanist.jpg" fit="contain" title="Alexander Anderson (1748 – 1811) was the Superintendent to the Botanical Garden at St. Vincent. He played a major role in the introduction and proliferation of breadfruit in the Caribbean" attribution="Wikimedia Commons" license="public domain">
-<param ve-entity eid="Q55643">
 {#paragraph9}
 
 ### Understanding Breadfruit through Illustration
