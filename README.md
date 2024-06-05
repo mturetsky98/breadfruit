@@ -177,7 +177,7 @@ Richard Allsopp’s _Dictionary of Caribbean English Usage_ lists a number of sa
 {#paragraph34}
 
 Breadfruit’s journey across the world has tangled it with traumatic human history, but through all of its experiences with humans, it has managed to thrive and to endure. It is a remarkable and resourceful tree, mostly no longer able to produce sexually,  yet in no way diminished by its enforced adaptations to human proximity.[^35] It is to be hoped that its own needs as an enduring plant will not be overrun by those of humans as climate change intensifies pressure on food resources - if  it proves true that the breadfruit, once more, has  the capacity to endure. This time,  whatever changes come for life on earth.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c0/Breadfruit_%28Artocarpus_altilis%29%2C_Malaysia.JPG" title="Breadfruit in a tree. Advocates argue that breadfruit can play a central role in combatting the food and agricultural impacts of climate change." attribution="Wikimedia Commons, MKwek" license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
+<param ve-image url="breadfruitTree.jpg" title="Breadfruit in a tree. Advocates argue that breadfruit can play a central role in combatting the food and agricultural impacts of climate change." attribution="Wikimedia Commons, MKwek" license="https://creativecommons.org/licenses/by-sa/3.0/deed.en">
 {#paragraph35}
 
 ### References
